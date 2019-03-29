@@ -1,0 +1,46 @@
+#!/bin/bash
+# This is a script to control the backlight of my System because I gave up on
+# getting the i915 intel drivers to work xorg server.  So this file will edit
+# the brightness value directly.
+
+MAX_BRIGHTNESS=$(sudo cat /sys/class/backlight/intel_backlight/max_brightness)
+brightness=$(sudo cat /sys/class/backlight/intel_backlight/brightness)
+MIN_BRIGHTNESS=500
+inc=0
+dec=0
+usage() { echo "Usage: $0 [-inc <percentage as int (0-100)>] [-dec <percentage as int(0-100)>]" 1>&2; exit 1; }
+while getopts ":i:d:" o; do
+    case $o in
+        i)
+			if [[ $OPTARG =~ ^\d+$ ]]; then
+				echo "invalid arguement ${OPTARG}"
+			fi
+            inc=$OPTARG
+            ;;
+        d)
+			if [[ $OPTARG =~ ^\d+$ ]]; then
+				echo "invalid arguement ${OPTARG}"
+			fi
+            dec=$OPTARG
+            ;;
+	*)
+	    echo "no such option ${o}"
+	    usage
+	    ;;
+    esac
+done
+
+#echo "brightness before: ${brightness}"
+brightness="$(($brightness+($MAX_BRIGHTNESS-$MIN_BRIGHTNESS)*($inc-$dec)/100))" 
+brightness=$(($MIN_BRIGHTNESS>$brightness?$MIN_BRIGHTNESS:$brightness))
+brightness=$(($MAX_BRIGHTNESS<$brightness?$MAX_BRIGHTNESS:$brightness))
+
+echo "$brightness" | sudo	tee /sys/class/backlight/intel_backlight/brightness
+
+#echo "maximum between inc and dec: $(($inc>$dec?$inc:$dec))" 
+#echo "MAX_BRIGHTNESS: ${MAX_BRIGHTNESS}"
+#echo "brightness after: ${brightness}"
+#echo "MIN_BRIGHTNESS: ${MIN_BRIGHTNESS}"
+#echo "inc: ${inc}"
+#echo "dec: ${dec}"
+
