@@ -1,0 +1,149 @@
+{
+  "options_generalSettings": {
+    "message": "Almennar stillingar"
+  }, 
+  "menu_blockUnencryptedRequests": {
+    "message": "Hindra allar ódulritaðar beiðnir"
+  }, 
+  "options_update": {
+    "message": "Uppfæra"
+  }, 
+  "chrome_add_new_rule": {
+    "message": "Bæta við nýrri reglu fyrir þetta vefsvæði"
+  }, 
+  "about_version": {
+    "message": "Útgáfa"
+  }, 
+  "options_updatesLastChecked": {
+    "message": "Síðast athugað með uppfærslur:"
+  }, 
+  "options_enterUpdateChannelName": {
+    "message": "Settu inn heiti á uppfærslurás"
+  }, 
+  "chrome_hide_advanced": {
+    "message": "Fela ítarlegt"
+  }, 
+  "chrome_stable_rules": {
+    "message": "Stöðugar reglur"
+  }, 
+  "chrome_stable_rules_description": {
+    "message": "Þvinga dulritaðar tengingar við þessi vefsvæði:"
+  }, 
+  "options_storedRulesetsVersion": {
+    "message": "Útgáfa vistaðra reglusetta:"
+  }, 
+  "chrome_host": {
+    "message": "Hýsilvél:"
+  }, 
+  "menu_globalEnable": {
+    "message": "Virkja HTTPS-allsstaðar"
+  }, 
+  "cancel_he_blocking_network": {
+    "message": "netkerfistengdar niðurfærsluárásir"
+  }, 
+  "options_userRulesListed": {
+    "message": "Notendareglur fyrir HTTPS-allsstaðar"
+  }, 
+  "options_enableMixedRulesets": {
+    "message": "Virkja reglusett fyrir blandað efni"
+  }, 
+  "about_rulesets_version": {
+    "message": "Útgáfa reglusetta fyrir"
+  }, 
+  "chrome_regex": {
+    "message": "Samsvarandi reglulegri segð"
+  }, 
+  "options_updateChannelsWarning": {
+    "message": "Aðvörun: ef bætt er við uppfærslurásum, gefast fleiri leiðir fyrir óþokka að ná völdum yfir vafranum þínum. Ekki breyta þessum hluta nema að þú vitir hvað þú ert að gera!"
+  }, 
+  "about_add_new_rule": {
+    "message": "Bæta við nýrri reglu"
+  }, 
+  "menu_viewAllRules": {
+    "message": "Skoða allar reglur"
+  }, 
+  "about_ext_description": {
+    "message": "Dulkóðaðu vefinn! Notaðu sjálfkrafa HTTPS-öryggi á mörgum vefsvæðum."
+  }, 
+  "options_delete": {
+    "message": "Eyða"
+  }, 
+  "options_disabledUrlsListed": {
+    "message": "Vefir með HTTPS-allsstaðar óvirkir"
+  }, 
+  "about_title": {
+    "message": "Um HTTPS-allsstaðar"
+  }, 
+  "options_showDevtoolsTab": {
+    "message": "Birta Devtools-flipa"
+  }, 
+  "options_advancedSettings": {
+    "message": "Ítarlegar stillingar"
+  }, 
+  "chrome_disable_on_this_site": {
+    "message": "Gera HTTPS-allsstaðar óvirkt á þessum vef"
+  }, 
+  "chrome_redirect_to": {
+    "message": "Endurbeina á"
+  }, 
+  "options_addUpdateChannel": {
+    "message": "Bæta við uppfærslurás"
+  }, 
+  "chrome_status_cancel_button": {
+    "message": "Hætta við"
+  }, 
+  "about_ext_name": {
+    "message": "HTTPS-allsstaðar"
+  }, 
+  "cancel_he_blocking_explainer": {
+    "message": "HTTPS-allsstaðar tók eftir að þú varst að fara á síðu sem ekki notar HTTPS, og reyndi því að senda þig í staðinn á HTTPS útgáfu síðunnar. HTTPS útgáfan er ekki aðgengileg. Líklega styður þetta vefsvæði ekki HTTPS, en það er líka inni í myndinni að einhver þrjótur sé að hindra aðganginn að HTTPS útgáfunni. Ef þú vilt samt sjá ódulritaða útgáfu síðunnar, geturðu gert það með því að velja 'Loka á allar ódulritaðar beiðnir' í HTTPS-allsstaðar viðaukanum. Hafðu samt í huga að með því að gera þennan valkost óvirkan gæti vafrinn þinn orðið aðgengilegur fyrir netkerfistengdar niðurfærsluárásir á vefsvæðum sem þú skoðar."
+  }, 
+  "menu_observatory": {
+    "message": "Kjörstillingar SSL Observatory"
+  }, 
+  "prefs_reset_defaults": {
+    "message": "Frumstilla á sjálfgefnar stillingar"
+  }, 
+  "chrome_add_rule": {
+    "message": "Bæta við reglu fyrir þetta vefsvæði"
+  }, 
+  "menu_showCounter": {
+    "message": "Birta teljara"
+  }, 
+  "chrome_show_advanced": {
+    "message": "Birta ítarlegt"
+  }, 
+  "options_autoUpdateRulesets": {
+    "message": "Uppfæra reglusett sjálfvirkt"
+  }, 
+  "options_updateChannels": {
+    "message": "Uppfærslurásir"
+  }, 
+  "prefs_reset_defaults_message": {
+    "message": "Þetta mun frumstilla hvert reglusett á sjálfgefin gildi þess. Halda áfram?"
+  }, 
+  "chrome_always_https_for_host": {
+    "message": "Alltaf nota HTTPS fyrir þessa vél"
+  }, 
+  "menu_donate_eff_imperative": {
+    "message": "Styrkja EFF"
+  }, 
+  "chrome_enable_on_this_site": {
+    "message": "Virkja HTTPS-allsstaðar á þessum vef"
+  }, 
+  "chrome_experimental_rules": {
+    "message": "Reglur á tilraunastigi"
+  }, 
+  "prefs_export_settings": {
+    "message": "Flytja út stillingar"
+  }, 
+  "chrome_rule_name": {
+    "message": "Heiti reglu"
+  }, 
+  "chrome_experimental_rules_description": {
+    "message": "Getur valdið hruni eða viðvörunum. Sjálfgefið óvirkt."
+  }, 
+  "options_updatesLastCheckedNever": {
+    "message": "aldrei"
+  }
+}

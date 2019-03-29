@@ -1,0 +1,36 @@
+{
+   "content_scripts": [ {
+      "css": [ "css/convert2mp3.css" ],
+      "js": [ "js/jquery-1.12.1.min.js", "js/youtube.js" ],
+      "matches": [ "*://www.youtube.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "css": [ "css/convert2mp3.css" ],
+      "js": [ "js/jquery-1.12.1.min.js", "js/clipfish_de.js" ],
+      "matches": [ "*://www.clipfish.de/*" ],
+      "run_at": "document_end"
+   }, {
+      "css": [ "css/convert2mp3.css" ],
+      "js": [ "js/jquery-1.12.1.min.js", "js/dailymotion.js" ],
+      "matches": [ "*://www.dailymotion.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Adds an option to convert YouTube.com, Dailymotion.com, and Clipfish.de Videos online to MP3, MP4 and more formats",
+   "developer": {
+      "name": "convert2mp3net"
+   },
+   "homepage_url": "http://convert2mp3.net/",
+   "icons": {
+      "128": "icons/Icon-128.png",
+      "48": "icons/Icon-48.png",
+      "64": "icons/Icon-64.png",
+      "96": "icons/Icon-96.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdWOmr6Gk04Qtn5iixm1Xkthy69jHfvvLtLpJHmvzZAa4Oo+ucHq6/wqTP2LYcEa1dCQeIUpdGzOgFVgoQgtFtdgIkcJUkCmR5pu4BpylJeQxdh49kwBNECXzInEMMOWxmc3ANyOycaSaRqal5emV8q/RXdX5Dlbr8jJA5xrCylQIDAQAB",
+   "manifest_version": 2,
+   "name": "convert2mp3.net Online Video Converter",
+   "permissions": [ "*://www.youtube.com/*", "*://www.vevo.com/*", "*://www.dailymotion.com/*", "*://www.clipfish.de/*", "*://convert2mp3.net/*" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "3.3",
+   "web_accessible_resources": [ "icons/extension_logo.png", "icons/icon-more.png" ]
+}

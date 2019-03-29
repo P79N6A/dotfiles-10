@@ -1,0 +1,63 @@
+2019/03/25-15:07:02.342 1e26 Reusing MANIFEST /home/maximillian/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/03/25-15:07:02.343 1e26 Recovering log #200
+2019/03/25-15:07:02.343 1e26 Reusing old log /home/maximillian/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000200.log 
+2019/03/25-15:07:28.646 1d39 Level-0 table #204: started
+2019/03/25-15:07:28.785 1d39 Level-0 table #204: 7244029 bytes OK
+2019/03/25-15:07:28.791 1d39 Delete type=0 #200
+2019/03/25-15:07:28.793 1d39 Compacting 4@0 + 2@1 files
+2019/03/25-15:07:28.875 1d39 Generated table #205@0: 31 keys, 7110079 bytes
+2019/03/25-15:07:28.878 1d39 Generated table #206@0: 14 keys, 1748 bytes
+2019/03/25-15:07:28.878 1d39 Compacted 4@0 + 2@1 files => 7111827 bytes
+2019/03/25-15:07:28.884 1d39 compacted to: files[ 0 2 3 0 0 0 0 ]
+2019/03/25-15:07:28.884 1d39 Delete type=2 #192
+2019/03/25-15:07:28.885 1d39 Delete type=2 #193
+2019/03/25-15:07:28.887 1d39 Delete type=2 #195
+2019/03/25-15:07:28.887 1d39 Delete type=2 #199
+2019/03/25-15:07:28.889 1d39 Delete type=2 #201
+2019/03/25-15:07:28.890 1d39 Delete type=2 #204
+2019/03/25-15:07:32.273 1d39 Level-0 table #208: started
+2019/03/25-15:07:32.369 1d39 Level-0 table #208: 8429682 bytes OK
+2019/03/25-15:07:32.375 1d39 Delete type=0 #203
+2019/03/25-15:07:33.842 1d39 Level-0 table #210: started
+2019/03/25-15:07:33.927 1d39 Level-0 table #210: 6441328 bytes OK
+2019/03/25-15:07:33.932 1d39 Delete type=0 #207
+2019/03/25-15:07:33.938 1d39 Level-0 table #212: started
+2019/03/25-15:07:33.997 1d39 Level-0 table #212: 8429682 bytes OK
+2019/03/25-15:07:34.001 1d39 Delete type=0 #209
+2019/03/25-15:08:17.307 1d39 Level-0 table #214: started
+2019/03/25-15:08:17.385 1d39 Level-0 table #214: 6846488 bytes OK
+2019/03/25-15:08:17.400 1d39 Delete type=0 #211
+2019/03/25-15:08:17.401 1d39 Compacting 4@0 + 2@1 files
+2019/03/25-15:08:17.516 1d39 Generated table #215@0: 30 keys, 8833379 bytes
+2019/03/25-15:08:17.606 1d39 Generated table #216@0: 1 keys, 6440499 bytes
+2019/03/25-15:08:17.609 1d39 Generated table #217@0: 14 keys, 1752 bytes
+2019/03/25-15:08:17.609 1d39 Compacted 4@0 + 2@1 files => 15275630 bytes
+2019/03/25-15:08:17.622 1d39 compacted to: files[ 0 3 3 0 0 0 0 ]
+2019/03/25-15:08:17.623 1d39 Delete type=2 #205
+2019/03/25-15:08:17.625 1d39 Delete type=2 #206
+2019/03/25-15:08:17.626 1d39 Delete type=2 #208
+2019/03/25-15:08:17.628 1d39 Delete type=2 #210
+2019/03/25-15:08:17.629 1d39 Delete type=2 #212
+2019/03/25-15:08:17.631 1d39 Delete type=2 #214
+2019/03/25-15:08:17.632 1d39 Expanding@1 1+3 (8833379+13220394 bytes) to 3+3 (15275630+13220394 bytes)
+2019/03/25-15:08:17.633 1d39 Compacting 3@1 + 3@2 files
+2019/03/25-15:08:17.705 1d39 Generated table #218@1: 72 keys, 8834408 bytes
+2019/03/25-15:08:17.778 1d39 Generated table #219@1: 1 keys, 6440499 bytes
+2019/03/25-15:08:17.809 1d39 Generated table #220@1: 14 keys, 1752 bytes
+2019/03/25-15:08:17.809 1d39 Compacted 3@1 + 3@2 files => 15276659 bytes
+2019/03/25-15:08:17.848 1d39 compacted to: files[ 0 0 3 0 0 0 0 ]
+2019/03/25-15:08:17.849 1d39 Delete type=2 #181
+2019/03/25-15:08:17.849 1d39 Delete type=2 #182
+2019/03/25-15:08:17.850 1d39 Delete type=2 #196
+2019/03/25-15:08:17.852 1d39 Delete type=2 #215
+2019/03/25-15:08:17.854 1d39 Delete type=2 #216
+2019/03/25-15:08:17.855 1d39 Delete type=2 #217
+2019/03/25-15:08:20.336 1d39 Level-0 table #222: started
+2019/03/25-15:08:20.393 1d39 Level-0 table #222: 8429649 bytes OK
+2019/03/25-15:08:20.397 1d39 Delete type=0 #213
+2019/03/25-15:08:21.588 1d39 Level-0 table #224: started
+2019/03/25-15:08:21.644 1d39 Level-0 table #224: 6441295 bytes OK
+2019/03/25-15:08:21.649 1d39 Delete type=0 #221
+2019/03/25-15:08:21.655 1d39 Level-0 table #226: started
+2019/03/25-15:08:21.715 1d39 Level-0 table #226: 8429649 bytes OK
+2019/03/25-15:08:21.718 1d39 Delete type=0 #223

@@ -1,0 +1,149 @@
+{
+  "options_generalSettings": {
+    "message": "ਆਮ ਸੈਟਿੰਗਜ਼"
+  }, 
+  "menu_blockUnencryptedRequests": {
+    "message": "Block all unencrypted requests"
+  }, 
+  "options_update": {
+    "message": "Update"
+  }, 
+  "chrome_add_new_rule": {
+    "message": "ਇਸ ਸਾਈਟ ਲਈ ਨਵਾਂ ਨਿਯਮ ਜੋੜੋ"
+  }, 
+  "about_version": {
+    "message": "ਵਰਜਨ"
+  }, 
+  "options_updatesLastChecked": {
+    "message": "Updates last checked: "
+  }, 
+  "options_enterUpdateChannelName": {
+    "message": "Enter update channel name"
+  }, 
+  "chrome_hide_advanced": {
+    "message": "ਉੱਨਤ ਛੁਪਾਓ"
+  }, 
+  "chrome_stable_rules": {
+    "message": "ਸਥਿਰ ਨਿਯਮ"
+  }, 
+  "chrome_stable_rules_description": {
+    "message": "Force encrypted connections to these websites:"
+  }, 
+  "options_storedRulesetsVersion": {
+    "message": "Stored rulesets version: "
+  }, 
+  "chrome_host": {
+    "message": "ਹੋਸਟ:"
+  }, 
+  "menu_globalEnable": {
+    "message": "ਐੱਚ.ਟੀ.ਟੀ.ਪੀ.ਐੱਸ. ਐਵਰੀਵੇਅਰ ਚਾਲੂ ਕਰੋ"
+  }, 
+  "cancel_he_blocking_network": {
+    "message": "network-based downgrade attacks"
+  }, 
+  "options_userRulesListed": {
+    "message": "HTTPS Everywhere User Rules"
+  }, 
+  "options_enableMixedRulesets": {
+    "message": "ਮਿਸ਼ਰਤ ਸਮੱਗਰੀ ਨਿਯਮ ਨੂੰ ਯੋਗ ਕਰੋ"
+  }, 
+  "about_rulesets_version": {
+    "message": "ਨਿਯਮਾਂ ਲਈ ਵਰਜਨ"
+  }, 
+  "chrome_regex": {
+    "message": "ਮੇਲਣ ਰੈਜੈਕਸ"
+  }, 
+  "options_updateChannelsWarning": {
+    "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+  }, 
+  "about_add_new_rule": {
+    "message": "ਨਵਾਂ ਨਿਯਮ ਜੋੜੋ"
+  }, 
+  "menu_viewAllRules": {
+    "message": "ਸਾਰੇ ਨਿਯਮ ਵਿਖਾਓ "
+  }, 
+  "about_ext_description": {
+    "message": "Encrypt the Web! Automatically use HTTPS security on many sites."
+  }, 
+  "options_delete": {
+    "message": "Delete"
+  }, 
+  "options_disabledUrlsListed": {
+    "message": "HTTPS Everywhere Sites Disabled"
+  }, 
+  "about_title": {
+    "message": "ਐੱਚ.ਟੀ.ਟੀ.ਪੀ.ਐੱਸ. ਐਵਰੀਵੇਅਰ ਬਾਰੇ "
+  }, 
+  "options_showDevtoolsTab": {
+    "message": "Show Devtools tab"
+  }, 
+  "options_advancedSettings": {
+    "message": "ਤਕਨੀਕੀ ਸੈਟਿੰਗਜ਼"
+  }, 
+  "chrome_disable_on_this_site": {
+    "message": "Disable HTTPS Everywhere on this site"
+  }, 
+  "chrome_redirect_to": {
+    "message": "ਵੱਲ ਭੇਜੋ"
+  }, 
+  "options_addUpdateChannel": {
+    "message": "Add Update Channel"
+  }, 
+  "chrome_status_cancel_button": {
+    "message": "ਰੱਦ ਕਰੋ"
+  }, 
+  "about_ext_name": {
+    "message": "ਐੱਚ.ਟੀ.ਟੀ.ਪੀ.ਐੱਸ. ਐਵਰੀਵੇਅਰ "
+  }, 
+  "cancel_he_blocking_explainer": {
+    "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+  }, 
+  "menu_observatory": {
+    "message": "SSL Observatory Preferences"
+  }, 
+  "prefs_reset_defaults": {
+    "message": "ਮੂਲ ਮੁੜ-ਸਟੋਰ ਕਰੋ"
+  }, 
+  "chrome_add_rule": {
+    "message": "ਇਸ ਸਾਈਟ ਲਈ ਇਕ ਨਿਯਮ ਜੋੜੋ"
+  }, 
+  "menu_showCounter": {
+    "message": "ਕਾਊਂਟਰ ਵਿਖਾਓ"
+  }, 
+  "chrome_show_advanced": {
+    "message": "ਉੱਨਤ ਵਿਖਾਓ "
+  }, 
+  "options_autoUpdateRulesets": {
+    "message": "Auto-update rulesets"
+  }, 
+  "options_updateChannels": {
+    "message": "Update Channels"
+  }, 
+  "prefs_reset_defaults_message": {
+    "message": "This will reset each ruleset to its default state. Continue?"
+  }, 
+  "chrome_always_https_for_host": {
+    "message": "Always use https for this host"
+  }, 
+  "menu_donate_eff_imperative": {
+    "message": "ਈ.ਐੱਫ.ਐੱਫ. ਨੂੰ ਦਾਨ ਦਿਓ"
+  }, 
+  "chrome_enable_on_this_site": {
+    "message": "Enable HTTPS Everywhere on this site"
+  }, 
+  "chrome_experimental_rules": {
+    "message": "ਪ੍ਰਯੋਗਾਤਮਕ ਨਿਯਮ"
+  }, 
+  "prefs_export_settings": {
+    "message": "ਨਿਰਯਾਤ ਸੈਟਿੰਗਜ਼"
+  }, 
+  "chrome_rule_name": {
+    "message": "ਨਿਯਮ ਦਾ ਨਾਮ"
+  }, 
+  "chrome_experimental_rules_description": {
+    "message": "ਚੇਤਾਵਨੀ ਜਾਂ ਟੁੱਟਣ ਦੇ ਕਾਰਨ ਹੋ ਸਕਦਾ ਹੈ. ਮੂਲ ਰੂਪ ਵਿੱਚ ਆਯੋਗ."
+  }, 
+  "options_updatesLastCheckedNever": {
+    "message": "never"
+  }
+}

@@ -1,0 +1,38 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "options_prefs.js", "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon19.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "ColorPicker Eyedropper"
+   },
+   "content_scripts": [ {
+      "js": [ "Cr_min.js", "options_prefs.js", "colorpick.user.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "A color-picker tool that allows you to select color values from webpages.",
+   "developer": {
+      "name": "dreamcarved"
+   },
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png",
+      "64": "img/icon64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA39c6L+kCcNlXTFW4gQwr+UvlG0QC3w3/iegDXz9+EN5SiWdcgiZvELbJ0z3WgVlNJlJ4bYB9TBBLv9gT6pcOktD7CaVcpTtROIo0buP6rowUOEq0R4UHmGakaQQ/8SszYMqrLpbAOWR3XtRAmedYFUjBkLJB/ybgPI3gMDKLa3xyiBH8ZcbTALv2K0XkSqkrnBC0u0eq8KC6SQkkGo32Nbrul3Ko1/gPwBf7pd0uQq3B3o7zxxH/YaRt8rmX9HX+7tcN/Vgv0kFTkt8DFgieVJoVEZYc21+ln6ueXCidB8FiDDeEwaMbepgcicux3M5VG0ASA78m9i7dlG6DRocK/QIDAQAB",
+   "manifest_version": 2,
+   "name": "ColorPicker Eyedropper",
+   "permissions": [ "storage", "tabs", "\u003Call_urls>", "alarms" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "0.0.1.2",
+   "web_accessible_resources": [ "img/crosshair.png", "img/close.png" ]
+}

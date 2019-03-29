@@ -1,0 +1,9 @@
+2019/03/25-15:04:08.926 1e46 Reusing MANIFEST /home/maximillian/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/03/25-15:04:08.926 1e46 Recovering log #191
+2019/03/25-15:04:08.926 1e46 Reusing old log /home/maximillian/.config/opera/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000191.log 
+2019/03/25-15:05:27.390 1d39 Level-0 table #199: started
+2019/03/25-15:05:27.497 1d39 Level-0 table #199: 8144863 bytes OK
+2019/03/25-15:05:27.501 1d39 Delete type=0 #191
+2019/03/25-15:05:28.263 1d39 Level-0 table #201: started
+2019/03/25-15:05:28.304 1d39 Level-0 table #201: 6703812 bytes OK
+2019/03/25-15:05:28.307 1d39 Delete type=0 #198

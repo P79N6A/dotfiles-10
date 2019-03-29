@@ -1,0 +1,41 @@
+{
+   "background": {
+      "scripts": [ "js/opera/const.js", "js/common/uid/uid.js", "js/common/ga/ga-common.js", "js/common/transpiled/retention/swStorageInstance.js", "js/common/transpiled/retention/swStorageSync.js", "js/common/transpiled/retention/swRetention.js", "js/all-browsers/jquery-3.2.1.min.js", "js/all-browsers/main.js", "js/all-browsers/request.js", "js/all-browsers/ranger.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon128.png",
+      "default_popup": "sw.html",
+      "default_title": "SimilarWeb"
+   },
+   "content_scripts": [ {
+      "js": [ "js/all-browsers/content.js" ],
+      "matches": [ "*://www.similarweb.com/website/*" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "js/all-browsers/appInfo.js" ],
+      "matches": [ "https://play.google.com/store/apps/details?id=*", "https://itunes.apple.com/*/app/*" ],
+      "run_at": "document_end"
+   }, {
+      "js": [ "js/all-browsers/cocl.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_descriptionjson__",
+   "developer": {
+      "name": "similarweb"
+   },
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy+Q6jf+QXhbwyx25+oXEcEWZQNntMVo+wUurkQVM030n83/9p/iktCvbTulkC6H6nOBRTX17GhEaqBSbxfUTAfGD7mUC6U6O7JuvmfUc5eFIxBDgJgT70900Zfr8sJaR5dcUOY3O1BIHhb4SvvaKZSfvjRVWBZJ/O5yEEBTLmJhiKDUC/PcjeajPP6nJziBymbs04zTxiqgRwRf5W4pxkF9E9sIxb/hv4zBvf5E7DAPz5li1zueJH1NSU1r1BFzDzpdAsf+7EiHX3+PnJKyPf3ezSr8ibYitXp8VkrTiG0YA8gOya/xwkI5s+9j/IHwy0muLpS6z1pNAu4Wx6cJbQQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "options_page": "options_nonui.html",
+   "permissions": [ "*://*/*", "tabs", "webRequest", "webNavigation", "webRequestBlocking", "storage", "storage" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "4.5.8",
+   "web_accessible_resources": [ "pixel.png" ]
+}

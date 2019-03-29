@@ -1,0 +1,149 @@
+{
+  "options_generalSettings": {
+    "message": "Ezarpen Orokorrak"
+  }, 
+  "menu_blockUnencryptedRequests": {
+    "message": "Enkriptatu gabeko eskaera guztiak blokeatu"
+  }, 
+  "options_update": {
+    "message": "Eguneratu"
+  }, 
+  "chrome_add_new_rule": {
+    "message": "Arau berri bat gehitu gune honetarako"
+  }, 
+  "about_version": {
+    "message": "Bertsioa"
+  }, 
+  "options_updatesLastChecked": {
+    "message": "Eguneraketak azkenengoz egiaztatuta:"
+  }, 
+  "options_enterUpdateChannelName": {
+    "message": "Sartu eguneraketa kanalaren izena"
+  }, 
+  "chrome_hide_advanced": {
+    "message": "Ezkutatu aurreratuak"
+  }, 
+  "chrome_stable_rules": {
+    "message": "Arau egonkorrak"
+  }, 
+  "chrome_stable_rules_description": {
+    "message": "Behartu konexio enkriptatuak webgune hauetan:"
+  }, 
+  "options_storedRulesetsVersion": {
+    "message": "Gordetako arau-multzoen bertsioa:"
+  }, 
+  "chrome_host": {
+    "message": "Ostalaria:"
+  }, 
+  "menu_globalEnable": {
+    "message": "HTTPS Everywhere gaitu"
+  }, 
+  "cancel_he_blocking_network": {
+    "message": "network-based downgrade attacks"
+  }, 
+  "options_userRulesListed": {
+    "message": "HTTPS Everywhere User Rules"
+  }, 
+  "options_enableMixedRulesets": {
+    "message": "Gaitu nahasitako arau-multzoak"
+  }, 
+  "about_rulesets_version": {
+    "message": "Arau-multzoaren bertsioa:"
+  }, 
+  "chrome_regex": {
+    "message": "Bat egiten duen regexa"
+  }, 
+  "options_updateChannelsWarning": {
+    "message": "Adi: Eguneraketa kanalak gehitzea erasotzaileak zure nabigatzailea bahitzea eragin dezake. Atal hau editatu ezazu zer egiten ari zaren ondo baldin badakizu soilik!"
+  }, 
+  "about_add_new_rule": {
+    "message": "Arau berria gehitu"
+  }, 
+  "menu_viewAllRules": {
+    "message": "Ikusi arau guztiak"
+  }, 
+  "about_ext_description": {
+    "message": "Weba enkriptatu! Automatikoki erabili HTTPS segurtasuna leku askotan."
+  }, 
+  "options_delete": {
+    "message": "Delete"
+  }, 
+  "options_disabledUrlsListed": {
+    "message": "HTTPS Everywhere Sites Disabled"
+  }, 
+  "about_title": {
+    "message": "HTTPS Everywhere buruz"
+  }, 
+  "options_showDevtoolsTab": {
+    "message": "Erakutsi Devtools fitxa"
+  }, 
+  "options_advancedSettings": {
+    "message": "Ezarpen Aurreratuak"
+  }, 
+  "chrome_disable_on_this_site": {
+    "message": "Disable HTTPS Everywhere on this site"
+  }, 
+  "chrome_redirect_to": {
+    "message": "Hona birzuzendu"
+  }, 
+  "options_addUpdateChannel": {
+    "message": "Eguneraketa kanala gehitu"
+  }, 
+  "chrome_status_cancel_button": {
+    "message": "Utzi"
+  }, 
+  "about_ext_name": {
+    "message": "HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_explainer": {
+    "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+  }, 
+  "menu_observatory": {
+    "message": "SSL Behatokiaren Hobespenak"
+  }, 
+  "prefs_reset_defaults": {
+    "message": "Lehenetsiak berrezarri"
+  }, 
+  "chrome_add_rule": {
+    "message": "Arau bat gehitu gune honetarako"
+  }, 
+  "menu_showCounter": {
+    "message": "Kopurua erakutsi"
+  }, 
+  "chrome_show_advanced": {
+    "message": "Erakutsi aurreratuak"
+  }, 
+  "options_autoUpdateRulesets": {
+    "message": "Auto-eguneratu arau-multzoak"
+  }, 
+  "options_updateChannels": {
+    "message": "Eguneraketa kanalak"
+  }, 
+  "prefs_reset_defaults_message": {
+    "message": "Honek arau-multzo bakoitza bere egoera lehenetsira berrasieratuko du. Jarraitu?"
+  }, 
+  "chrome_always_https_for_host": {
+    "message": "Beti erabili https ostalari honetarako"
+  }, 
+  "menu_donate_eff_imperative": {
+    "message": "EFFri dohaintza eman"
+  }, 
+  "chrome_enable_on_this_site": {
+    "message": "Enable HTTPS Everywhere on this site"
+  }, 
+  "chrome_experimental_rules": {
+    "message": "Arau esperimentalak"
+  }, 
+  "prefs_export_settings": {
+    "message": "Esportatu Ezarpenak"
+  }, 
+  "chrome_rule_name": {
+    "message": "Arauaren izena"
+  }, 
+  "chrome_experimental_rules_description": {
+    "message": "Alarmak edo kalteak eragin dezake. Ezgaitua lehenetsia."
+  }, 
+  "options_updatesLastCheckedNever": {
+    "message": "inoiz"
+  }
+}

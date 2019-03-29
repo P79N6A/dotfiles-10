@@ -1,0 +1,172 @@
+.categories-sprite {
+  background: url("../images/categories-sprite-blue.png") no-repeat -100px -100px;
+  width: 32px;
+  height: 32px;
+}
+.categories-sprite.adult {
+  background-position: 0 0;
+}
+.categories-sprite.arts_and_entertainment {
+  background-position: 0 -84px;
+}
+.categories-sprite.autos_and_vehicles {
+  background-position: 0 -126px;
+}
+.categories-sprite.books_and_literature {
+  background-position: 0 -1050px;
+}
+.categories-sprite.beauty_and_fitness {
+  background-position: 0 -168px;
+}
+.categories-sprite.business_and_industry {
+  background-position: 0 -210px;
+}
+.categories-sprite.career_and_education {
+  background-position: 0 -252px;
+}
+.categories-sprite.computer_and_electronics {
+  background-position: 0 -294px;
+}
+.categories-sprite.finance {
+  background-position: 0 -336px;
+}
+.categories-sprite.food_and_drink {
+  background-position: 0 -378px;
+}
+.categories-sprite.gambling {
+  background-position: 0 -420px;
+}
+.categories-sprite.games {
+  background-position: 0 -462px;
+}
+.categories-sprite.health {
+  background-position: 0 -504px;
+}
+.categories-sprite.home_and_garden {
+  background-position: 0 -546px;
+}
+.categories-sprite.internet_and_telecom {
+  background-position: 0 -588px;
+}
+.categories-sprite.law_and_government {
+  background-position: 0 -630px;
+}
+.categories-sprite.news_and_media {
+  background-position: 0 -672px;
+}
+.categories-sprite.people_and_society {
+  background-position: 0 -714px;
+}
+.categories-sprite.pets_and_animals {
+  background-position: 0 -42px;
+}
+.categories-sprite.recreation_and_hobbies {
+  background-position: 0 -756px;
+}
+.categories-sprite.reference {
+  background-position: 0 -798px;
+}
+.categories-sprite.science {
+  background-position: 0 -840px;
+}
+.categories-sprite.shopping {
+  background-position: 0 -882px;
+}
+.categories-sprite.sports {
+  background-position: 0 -924px;
+}
+.categories-sprite.travel {
+  background-position: 0 -966px;
+}
+.categories-sprite.unknown {
+  background-position: 0 -1008px;
+}
+
+.categories-sprite.small {
+  background: url("../images/categories-sprite-small.png") no-repeat;
+  width: 16px;
+  height: 16px;
+  background-position: 0 -1584px;
+  margin: 12px 5px 0 0;
+}
+.categories-sprite.small.adult {
+  background-position: 0 0;
+}
+.categories-sprite.small.arts_and_entertainment {
+  background-position: 0 -132px;
+}
+.categories-sprite.small.autos_and_vehicles {
+  background-position: 0 -198px;
+}
+.categories-sprite.small.beauty_and_fitness {
+  background-position: 0 -264px;
+}
+.categories-sprite.small.business_and_industry {
+  background-position: 0 -330px;
+}
+.categories-sprite.small.career_and_education {
+  background-position: 0 -396px;
+}
+.categories-sprite.small.computer_and_electronics {
+  background-position: 0 -462px;
+}
+.categories-sprite.small.finance {
+  background-position: 0 -528px;
+}
+.categories-sprite.small.food_and_drink {
+  background-position: 0 -594px;
+}
+.categories-sprite.small.gambling {
+  background-position: 0 -660px;
+}
+.categories-sprite.small.games {
+  background-position: 0 -726px;
+}
+.categories-sprite.small.health {
+  background-position: 0 -792px;
+}
+.categories-sprite.small.home_and_garden {
+  background-position: 0 -858px;
+}
+.categories-sprite.small.internet_and_telecom {
+  background-position: 0 -924px;
+}
+.categories-sprite.small.law_and_government {
+  background-position: 0 -990px;
+}
+.categories-sprite.small.news_and_media {
+  background-position: 0 -1056px;
+}
+.categories-sprite.small.people_and_society {
+  background-position: 0 -1122px;
+}
+.categories-sprite.small.pets_and_animals {
+  background-position: 0 -66px;
+}
+.categories-sprite.small.recreation_and_hobbies {
+  background-position: 0 -1188px;
+}
+.categories-sprite.small.reference {
+  background-position: 0 -1254px;
+}
+.categories-sprite.small.science {
+  background-position: 0 -1320px;
+}
+.categories-sprite.small.shopping {
+  background-position: 0 -1386px;
+}
+.categories-sprite.small.sports {
+  background-position: 0 -1452px;
+}
+.categories-sprite.small.travel {
+  background-position: 0 -1518px;
+}
+.categories-sprite.small.unknown {
+  background-position: 0 -1584px;
+}
+.categories-sprite.small.global {
+  background-position: 0 -1650px;
+}
+.categories-sprite.small.books_and_literature {
+  background-position: -1px -1710px;
+}

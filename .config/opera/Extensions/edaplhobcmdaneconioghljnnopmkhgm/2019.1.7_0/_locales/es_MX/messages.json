@@ -1,0 +1,149 @@
+{
+  "options_generalSettings": {
+    "message": "Configuración General"
+  }, 
+  "menu_blockUnencryptedRequests": {
+    "message": "Bloquear todos los pedidos no-encriptados"
+  }, 
+  "options_update": {
+    "message": "Update"
+  }, 
+  "chrome_add_new_rule": {
+    "message": "Añadir una regla neuva para este sitio"
+  }, 
+  "about_version": {
+    "message": "Versión"
+  }, 
+  "options_updatesLastChecked": {
+    "message": "Updates last checked: "
+  }, 
+  "options_enterUpdateChannelName": {
+    "message": "Enter update channel name"
+  }, 
+  "chrome_hide_advanced": {
+    "message": "Esconde avanzado"
+  }, 
+  "chrome_stable_rules": {
+    "message": "Reglas Estables"
+  }, 
+  "chrome_stable_rules_description": {
+    "message": "A fuerza utilizar conexiones encriptado para estas sitios de web"
+  }, 
+  "options_storedRulesetsVersion": {
+    "message": "Stored rulesets version: "
+  }, 
+  "chrome_host": {
+    "message": "Host:"
+  }, 
+  "menu_globalEnable": {
+    "message": "Activar HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_network": {
+    "message": "network-based downgrade attacks"
+  }, 
+  "options_userRulesListed": {
+    "message": "HTTPS Everywhere User Rules"
+  }, 
+  "options_enableMixedRulesets": {
+    "message": "Enable mixed content rulesets"
+  }, 
+  "about_rulesets_version": {
+    "message": "Rulesets version for"
+  }, 
+  "chrome_regex": {
+    "message": "Regex coincidente"
+  }, 
+  "options_updateChannelsWarning": {
+    "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+  }, 
+  "about_add_new_rule": {
+    "message": "Añade Nueva Regla"
+  }, 
+  "menu_viewAllRules": {
+    "message": "Ver todo las reglas"
+  }, 
+  "about_ext_description": {
+    "message": "Cifra la Red! Automáticamente utiliza seguridades HTTPS en multiples sitios."
+  }, 
+  "options_delete": {
+    "message": "Eliminar"
+  }, 
+  "options_disabledUrlsListed": {
+    "message": "HTTPS Everywhere Sites Disabled"
+  }, 
+  "about_title": {
+    "message": "Sobre HTTPS Everywhere"
+  }, 
+  "options_showDevtoolsTab": {
+    "message": "Show Devtools tab"
+  }, 
+  "options_advancedSettings": {
+    "message": "Advanced Settings"
+  }, 
+  "chrome_disable_on_this_site": {
+    "message": "Disable HTTPS Everywhere on this site"
+  }, 
+  "chrome_redirect_to": {
+    "message": "Redirigir a "
+  }, 
+  "options_addUpdateChannel": {
+    "message": "Add Update Channel"
+  }, 
+  "chrome_status_cancel_button": {
+    "message": "Cancelar"
+  }, 
+  "about_ext_name": {
+    "message": "HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_explainer": {
+    "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+  }, 
+  "menu_observatory": {
+    "message": "Preferencias del Observatorio SSL"
+  }, 
+  "prefs_reset_defaults": {
+    "message": "Restaurar a Valores Predeterminados"
+  }, 
+  "chrome_add_rule": {
+    "message": "Añadir una regla para este sitio"
+  }, 
+  "menu_showCounter": {
+    "message": "Enseña contador "
+  }, 
+  "chrome_show_advanced": {
+    "message": "Enseña avanzado"
+  }, 
+  "options_autoUpdateRulesets": {
+    "message": "Auto-update rulesets"
+  }, 
+  "options_updateChannels": {
+    "message": "Update Channels"
+  }, 
+  "prefs_reset_defaults_message": {
+    "message": "This will reset each ruleset to its default state. Continue?"
+  }, 
+  "chrome_always_https_for_host": {
+    "message": "Utilizar siempre https para este host"
+  }, 
+  "menu_donate_eff_imperative": {
+    "message": "Dona a EFF"
+  }, 
+  "chrome_enable_on_this_site": {
+    "message": "Enable HTTPS Everywhere on this site"
+  }, 
+  "chrome_experimental_rules": {
+    "message": "Reglas Experimentales"
+  }, 
+  "prefs_export_settings": {
+    "message": "Exportar configuraciónes."
+  }, 
+  "chrome_rule_name": {
+    "message": "nombre de regla"
+  }, 
+  "chrome_experimental_rules_description": {
+    "message": "Puede causar advertencias o rotura. Desactivado de manera predeterminada"
+  }, 
+  "options_updatesLastCheckedNever": {
+    "message": "never"
+  }
+}

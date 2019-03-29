@@ -1,0 +1,6 @@
+2019/03/28-20:31:30.404 2fc Reusing MANIFEST /home/maximillian/.config/opera/Sync Data/LevelDB/MANIFEST-000001
+2019/03/28-20:31:30.411 2fc Recovering log #100
+2019/03/28-20:31:30.418 2fc Reusing old log /home/maximillian/.config/opera/Sync Data/LevelDB/000100.log 
+2019/03/28-20:31:32.567 319 Level-0 table #104: started
+2019/03/28-20:31:32.579 319 Level-0 table #104: 104593 bytes OK
+2019/03/28-20:31:32.585 319 Delete type=0 #100

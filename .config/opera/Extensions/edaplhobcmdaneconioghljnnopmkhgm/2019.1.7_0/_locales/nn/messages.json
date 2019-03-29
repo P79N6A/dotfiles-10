@@ -1,0 +1,149 @@
+{
+  "options_generalSettings": {
+    "message": "Generelle innstillingar"
+  }, 
+  "menu_blockUnencryptedRequests": {
+    "message": "Blokker alle ukrypterde fyrespurnader"
+  }, 
+  "options_update": {
+    "message": "Update"
+  }, 
+  "chrome_add_new_rule": {
+    "message": "Legg til ein ny regel for denne nettstaden"
+  }, 
+  "about_version": {
+    "message": "Versjon"
+  }, 
+  "options_updatesLastChecked": {
+    "message": "Updates last checked: "
+  }, 
+  "options_enterUpdateChannelName": {
+    "message": "Enter update channel name"
+  }, 
+  "chrome_hide_advanced": {
+    "message": "Gøym avansert"
+  }, 
+  "chrome_stable_rules": {
+    "message": "Støduge reglar"
+  }, 
+  "chrome_stable_rules_description": {
+    "message": "Tving krypterte tilkoplingar åt desse nettstadane:"
+  }, 
+  "options_storedRulesetsVersion": {
+    "message": "Stored rulesets version: "
+  }, 
+  "chrome_host": {
+    "message": "Vert:"
+  }, 
+  "menu_globalEnable": {
+    "message": "Slå på HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_network": {
+    "message": "network-based downgrade attacks"
+  }, 
+  "options_userRulesListed": {
+    "message": "HTTPS Everywhere User Rules"
+  }, 
+  "options_enableMixedRulesets": {
+    "message": "Enable mixed content rulesets"
+  }, 
+  "about_rulesets_version": {
+    "message": "Rulesets version for"
+  }, 
+  "chrome_regex": {
+    "message": "Som passar med regex"
+  }, 
+  "options_updateChannelsWarning": {
+    "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+  }, 
+  "about_add_new_rule": {
+    "message": "Legg til ny regel"
+  }, 
+  "menu_viewAllRules": {
+    "message": "Vis alle reglane"
+  }, 
+  "about_ext_description": {
+    "message": "Krypter veven! Bruk HTTPS-tryggleik automatisk på mange sider."
+  }, 
+  "options_delete": {
+    "message": "Delete"
+  }, 
+  "options_disabledUrlsListed": {
+    "message": "HTTPS Everywhere Sites Disabled"
+  }, 
+  "about_title": {
+    "message": "Om HTTPS Everywhere"
+  }, 
+  "options_showDevtoolsTab": {
+    "message": "Show Devtools tab"
+  }, 
+  "options_advancedSettings": {
+    "message": "Advanced Settings"
+  }, 
+  "chrome_disable_on_this_site": {
+    "message": "Disable HTTPS Everywhere on this site"
+  }, 
+  "chrome_redirect_to": {
+    "message": "Omdiriger til"
+  }, 
+  "options_addUpdateChannel": {
+    "message": "Add Update Channel"
+  }, 
+  "chrome_status_cancel_button": {
+    "message": "Avbryt"
+  }, 
+  "about_ext_name": {
+    "message": "HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_explainer": {
+    "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+  }, 
+  "menu_observatory": {
+    "message": "SSL Observatory Innstillingar"
+  }, 
+  "prefs_reset_defaults": {
+    "message": "Still tilbake til standard"
+  }, 
+  "chrome_add_rule": {
+    "message": "Legg til ein regel for denne nettstaden"
+  }, 
+  "menu_showCounter": {
+    "message": "Vis teljar"
+  }, 
+  "chrome_show_advanced": {
+    "message": "Vis avansert"
+  }, 
+  "options_autoUpdateRulesets": {
+    "message": "Auto-update rulesets"
+  }, 
+  "options_updateChannels": {
+    "message": "Update Channels"
+  }, 
+  "prefs_reset_defaults_message": {
+    "message": "This will reset each ruleset to its default state. Continue?"
+  }, 
+  "chrome_always_https_for_host": {
+    "message": "Nytt alltid https for denne verten"
+  }, 
+  "menu_donate_eff_imperative": {
+    "message": "Doner til EFF"
+  }, 
+  "chrome_enable_on_this_site": {
+    "message": "Enable HTTPS Everywhere on this site"
+  }, 
+  "chrome_experimental_rules": {
+    "message": "Reglar på prøve"
+  }, 
+  "prefs_export_settings": {
+    "message": "Eksporter innstillingar"
+  }, 
+  "chrome_rule_name": {
+    "message": "Namn på regelen:"
+  }, 
+  "chrome_experimental_rules_description": {
+    "message": "Kan vera årsak åt åtvaringar eller brot. Slegne av som standard."
+  }, 
+  "options_updatesLastCheckedNever": {
+    "message": "never"
+  }
+}

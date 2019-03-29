@@ -1,0 +1,51 @@
+{
+   "author": "Raymond Hill",
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/browsericons/icon19-19.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "uMatrix"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "/js/vapi-client.js", "/js/contentscript-start.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "js": [ "/js/contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extShortDesc__",
+   "developer": {
+      "name": "gorhill"
+   },
+   "homepage_url": "https://github.com/gorhill/uMatrix/wiki",
+   "icons": {
+      "128": "img/icon_128.png",
+      "16": "img/icon_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4ThgS0n3OK7ISJJn8Mr3wkkjR7RCXcQ4S9Ixi2PebVuYC3fLq9h8c8W2t8CqdJs7A90jhlxdpduTwI6U4yNJkq3CeKegq5julkuQ7oDLlZ+JKlCeRT5v0gsAhOIaXVmhS9mZDy7gmKK3JzUYdouUnBwzBzZ61P8u90zovaBu9MQJmPP+mNHqYlXMOamrxrB1m3w49/c2YDP6KoF9iYAKlTqJIAOAStlJR7lqpyRM1lVVSIYBnrA4Cnsv74722c9BjEB3haOub+xg76A5qLSYf0CwskdlXmKkuApjdOeNcwCYUb0t9Udm6LRSQjOVkBeualphejK1W6GJyMeW0DCCtwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "45.0",
+   "name": "uMatrix",
+   "options_page": "dashboard.html",
+   "permissions": [ "browsingData", "cookies", "privacy", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking", "\u003Call_urls>" ],
+   "short_name": "uMatrix",
+   "sidebar_action": {
+      "default_icon": {
+         "128": "img/icon_128.png",
+         "16": "img/icon_16.png"
+      },
+      "default_panel": "logger-ui.html",
+      "default_title": "__MSG_loggerPageName__"
+   },
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.3.0"
+}

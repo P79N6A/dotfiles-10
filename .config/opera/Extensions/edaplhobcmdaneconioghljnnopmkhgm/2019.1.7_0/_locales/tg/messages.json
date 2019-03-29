@@ -1,0 +1,149 @@
+{
+  "options_generalSettings": {
+    "message": "General Settings"
+  }, 
+  "menu_blockUnencryptedRequests": {
+    "message": "Block all unencrypted requests"
+  }, 
+  "options_update": {
+    "message": "Навсозӣ кардан"
+  }, 
+  "chrome_add_new_rule": {
+    "message": "Add a new rule for this site"
+  }, 
+  "about_version": {
+    "message": "Версия"
+  }, 
+  "options_updatesLastChecked": {
+    "message": "Updates last checked: "
+  }, 
+  "options_enterUpdateChannelName": {
+    "message": "Enter update channel name"
+  }, 
+  "chrome_hide_advanced": {
+    "message": "Hide advanced"
+  }, 
+  "chrome_stable_rules": {
+    "message": "Stable rules"
+  }, 
+  "chrome_stable_rules_description": {
+    "message": "Force encrypted connections to these websites:"
+  }, 
+  "options_storedRulesetsVersion": {
+    "message": "Stored rulesets version: "
+  }, 
+  "chrome_host": {
+    "message": "Host:"
+  }, 
+  "menu_globalEnable": {
+    "message": "Enable HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_network": {
+    "message": "network-based downgrade attacks"
+  }, 
+  "options_userRulesListed": {
+    "message": "HTTPS Everywhere User Rules"
+  }, 
+  "options_enableMixedRulesets": {
+    "message": "Enable mixed content rulesets"
+  }, 
+  "about_rulesets_version": {
+    "message": "Rulesets version for"
+  }, 
+  "chrome_regex": {
+    "message": "Matching regex"
+  }, 
+  "options_updateChannelsWarning": {
+    "message": "Warning: Adding update channels can cause attackers to hijack your browser. Only edit this section if you know what you're doing!"
+  }, 
+  "about_add_new_rule": {
+    "message": "Add New Rule"
+  }, 
+  "menu_viewAllRules": {
+    "message": "View All Rules"
+  }, 
+  "about_ext_description": {
+    "message": "Encrypt the Web! Automatically use HTTPS security on many sites."
+  }, 
+  "options_delete": {
+    "message": "Нест кардан"
+  }, 
+  "options_disabledUrlsListed": {
+    "message": "HTTPS Everywhere Sites Disabled"
+  }, 
+  "about_title": {
+    "message": "About HTTPS Everywhere"
+  }, 
+  "options_showDevtoolsTab": {
+    "message": "Show Devtools tab"
+  }, 
+  "options_advancedSettings": {
+    "message": "Advanced Settings"
+  }, 
+  "chrome_disable_on_this_site": {
+    "message": "Disable HTTPS Everywhere on this site"
+  }, 
+  "chrome_redirect_to": {
+    "message": "Redirect to"
+  }, 
+  "options_addUpdateChannel": {
+    "message": "Add Update Channel"
+  }, 
+  "chrome_status_cancel_button": {
+    "message": "Cancel"
+  }, 
+  "about_ext_name": {
+    "message": "HTTPS Everywhere"
+  }, 
+  "cancel_he_blocking_explainer": {
+    "message": "HTTPS Everywhere noticed you were navigating to a non-HTTPS page, and tried to send you to the HTTPS version instead. The HTTPS version is unavailable. Most likely this site does not support HTTPS, but it is also possible that an attacker is blocking the HTTPS version. If you wish to view the unencrypted version of this page, you can still do so by disabling the 'Block all unencrypted requests' option in your HTTPS Everywhere extension. Be aware that disabling this option could make your browser vulnerable to network-based downgrade attacks on websites you visit."
+  }, 
+  "menu_observatory": {
+    "message": "SSL Observatory Preferences"
+  }, 
+  "prefs_reset_defaults": {
+    "message": "Reset to Defaults"
+  }, 
+  "chrome_add_rule": {
+    "message": "Add a rule for this site"
+  }, 
+  "menu_showCounter": {
+    "message": "Show Counter"
+  }, 
+  "chrome_show_advanced": {
+    "message": "Show advanced"
+  }, 
+  "options_autoUpdateRulesets": {
+    "message": "Auto-update rulesets"
+  }, 
+  "options_updateChannels": {
+    "message": "Update Channels"
+  }, 
+  "prefs_reset_defaults_message": {
+    "message": "This will reset each ruleset to its default state. Continue?"
+  }, 
+  "chrome_always_https_for_host": {
+    "message": "Always use https for this host"
+  }, 
+  "menu_donate_eff_imperative": {
+    "message": "Donate to EFF"
+  }, 
+  "chrome_enable_on_this_site": {
+    "message": "Enable HTTPS Everywhere on this site"
+  }, 
+  "chrome_experimental_rules": {
+    "message": "Experimental rules"
+  }, 
+  "prefs_export_settings": {
+    "message": "Export Settings"
+  }, 
+  "chrome_rule_name": {
+    "message": "Rule name"
+  }, 
+  "chrome_experimental_rules_description": {
+    "message": "May cause warnings or breakage. Disabled by default."
+  }, 
+  "options_updatesLastCheckedNever": {
+    "message": "never"
+  }
+}
